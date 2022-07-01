@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041576945744",
+    "project_id": "lojavirtual-b03ab",
+    "storage_bucket": "lojavirtual-b03ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041576945744:android:40b13d442180cd3fae0955",
+        "android_client_info": {
+          "package_name": "br.com.venustech.lojavirtual.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041576945744-qud7ubr495uu0g89iqt9s1em6c9lt4nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2T8QHfotmotyPntQepnErS2XygPP3bso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041576945744-qud7ubr495uu0g89iqt9s1em6c9lt4nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
